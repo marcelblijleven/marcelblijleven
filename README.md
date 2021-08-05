@@ -1,10 +1,4 @@
 ### Hi there 👋
-Thank you for stopping by! My name is Marcel Blijleven and I'm an Automation Engineer from the Netherlands, currently living in a 'village' close to Amsterdam.
-
-Short summary: 🙋🏻‍♂️ 💁🏼‍♀️ 👶🏻 😸 📸 🚴🏻‍♂️ 💻
-
-#### Stats
-Some stats which may or may not be of interest:
 
 [![Marcel's github stats](https://github-readme-stats.vercel.app/api?username=marcelblijleven)](https://github.com/marcelblijleven)
 
